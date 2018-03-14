@@ -1,9 +1,5 @@
 *This is not an official Google product*
 
-# ML API next talk demos
-
-This repo includes 4 demos from my [Google Next talk](https://youtu.be/w1xNTLH1zlA) and [Google I/O talk](https://www.youtube.com/watch?v=ETeeSYMGZn0) on the Cloud ML APIs. To run the demos, follow the instructions below.
-
 ## Vision API + Firebase demo
 
 1. `cd` into `vision-api-firebase`
